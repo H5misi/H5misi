@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hazem Alkhamisi</h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+
 
 <h3 align="center">A passionate computer science from Egypt</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Now+you+are+in+my+GitHub+profile!)](https://git.io/typing-svg)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16h3bsQMfRHPkYMNji3UT-2xxszLd1Oe4/view?usp=sharing](https://drive.google.com/file/d/16h3bsQMfRHPkYMNji3UT-2xxszLd1Oe4/view?usp=sharing)
 
