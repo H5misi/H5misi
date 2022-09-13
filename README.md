@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hazem Alkhamisi</h1>
+<h1 align="center">Hi <iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="480" height="466" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z">via GIPHY</a></p> 👋, I'm Hazem Alkhamisi</h1>
 <h3 align="center">A passionate computer science from Egypt</h3>
 
 
