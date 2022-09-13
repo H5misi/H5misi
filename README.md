@@ -1,5 +1,6 @@
-<h1 align="center">Hi <div style="width:100%;height:0;padding-bottom:97%;position:relative;"><iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z">via GIPHY</a></p> 👋, I'm Hazem Alkhamisi</h1>
+<h1 align="center">Hi  👋, I'm Hazem Alkhamisi</h1>
 <h3 align="center">A passionate computer science from Egypt</h3>
+<div style="width:100%;height:0;padding-bottom:97%;position:relative;"><iframe src="https://giphy.com/embed/hvRJCLFzcasrR4ia7z" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/transparent-hvRJCLFzcasrR4ia7z">via GIPHY</a></p>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=45&duration=4000&pause=1500&color=F70404&center=true&vCenter=true&width=1000&height=100&lines=Now+you+are+in+my+GitHub+profile!)](https://git.io/typing-svg)
