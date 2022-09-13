@@ -3,7 +3,7 @@
 
 <h3 align="center">A passionate computer science from Egypt</h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2500&pause=1000&color=F70404&center=true&vCenter=true&width=800&height=70&lines=Now+you+are+in+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=F70404&center=true&vCenter=true&width=1000&height=70&lines=Now+you+are+in+my+GitHub+profile!)](https://git.io/typing-svg)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16h3bsQMfRHPkYMNji3UT-2xxszLd1Oe4/view?usp=sharing](https://drive.google.com/file/d/16h3bsQMfRHPkYMNji3UT-2xxszLd1Oe4/view?usp=sharing)
 
