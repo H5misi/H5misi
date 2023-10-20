@@ -7,7 +7,7 @@
 
 
 
-- 🌱 I’m currently learning **Android Kotlin / Web development**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1AxfjWM0RPEvWwtkaKb8B4bxrVSFIjniX?usp=share_link](https://drive.google.com/drive/folders/1AxfjWM0RPEvWwtkaKb8B4bxrVSFIjniX?usp=share_link)
 
