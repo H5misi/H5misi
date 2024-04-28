@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1AxfjWM0RPEvWwtkaKb8B4bxrVSFIjniX?usp=share_link](https://drive.google.com/drive/folders/1AxfjWM0RPEvWwtkaKb8B4bxrVSFIjniX?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1AxfjWM0RPEvWwtkaKb8B4bxrVSFIjniX?usp=share_link](https://drive.google.com/file/d/1yarK3KCTt57a4g2_f1fZ6wZKNbQnkOge/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
