@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Back-end development**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lEtA2VfF5AJdAawtoBAHiiDgdm47R_aI/view?usp=sharing](https://drive.google.com/file/d/1lEtA2VfF5AJdAawtoBAHiiDgdm47R_aI/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1lEtA2VfF5AJdAawtoBAHiiDgdm47R_aI/view?usp=sharing]([https://drive.google.com/file/d/1lEtA2VfF5AJdAawtoBAHiiDgdm47R_aI/view?usp=sharing](https://drive.google.com/file/d/1_aG7X2q76QumFI1CVE_aCLnO7OpwJk_J/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
